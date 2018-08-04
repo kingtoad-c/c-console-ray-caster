@@ -1,4 +1,4 @@
-C# Console Raycaster
+# C# Console Raycaster
 A little raycaster written in C# that uses the console to display some colored text.
 
 
