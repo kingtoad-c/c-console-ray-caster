@@ -14,7 +14,10 @@ A little raycaster written in C# that uses the console to display some colored t
 ### Controls
 - Arrow Keys
 
-
+before:
 [![Click me](https://imgur.com/UKBMB5A.png)](https://drive.google.com/open?id=12RNsgTEl_DemJgIYGS6BzSH-296VEYcK)
+
+after:
+![image](https://github.com/user-attachments/assets/f6dcdb0d-535d-440e-92b4-8e0d6a14476b)
 
 [Video Link](https://drive.google.com/file/d/12RNsgTEl_DemJgIYGS6BzSH-296VEYcK/view)
