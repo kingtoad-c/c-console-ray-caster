@@ -5,7 +5,7 @@
 
 >made the aspect rasio of the window smaller to not exceed the buffer size
 
-#key notes
+# *** key notes ***
 when it first loads in the 5 seconds waitiong time put it in full screen for the best overall exsperiance
 
 ## C# Console Raycaster
