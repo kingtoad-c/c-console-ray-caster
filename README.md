@@ -21,4 +21,8 @@ A little raycaster written in C# that uses the console to display some colored t
 
 ![image](https://github.com/user-attachments/assets/f6dcdb0d-535d-440e-92b4-8e0d6a14476b)
 
+## video on raycasting:
+~~~
+https://drive.google.com/file/d/12RNsgTEl_DemJgIYGS6BzSH-296VEYcK/view
+~~~
 [Video Link](https://drive.google.com/file/d/12RNsgTEl_DemJgIYGS6BzSH-296VEYcK/view)
