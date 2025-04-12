@@ -6,7 +6,7 @@
 >made the aspect rasio of the window smaller to not exceed the buffer size
 
 # *** key notes ***
-when it first loads in the 5 seconds waitiong time put it in full screen for the best overall exsperiance
+when it first loads in the 5 seconds waiting time put it in full screen for the best overall exsperiance
 
 ## C# Console Raycaster
 A little raycaster written in C# that uses the console to display some colored text. It even has a little smiley easter egg hidden somewhere.
