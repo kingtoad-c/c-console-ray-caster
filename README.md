@@ -26,3 +26,10 @@ A little raycaster written in C# that uses the console to display some colored t
 https://drive.google.com/file/d/12RNsgTEl_DemJgIYGS6BzSH-296VEYcK/view
 ~~~
 [Video Link](https://drive.google.com/file/d/12RNsgTEl_DemJgIYGS6BzSH-296VEYcK/view)
+
+# my plans
+>put this on the pyberry phone
+>start my own firmware for piberry phone that has games and wifi functionality
+>start buisness on cyber security
+>help those
+>retire rich
